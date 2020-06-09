@@ -1,6 +1,8 @@
 # Spoty-Pocket
 aplicação web - mobile utilizando api do Spotify
 
+>aplicação desenvolvida durante o curso Codenation, Último desafio
+
 ### Layout
 
 ### Home
